@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\bin\Debug\netcoreapp3.1\Aula34MVC.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula34MVC\obj\Debug\netcoreapp3.1\Aula34MVC.pdb
